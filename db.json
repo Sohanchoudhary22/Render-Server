@@ -18,5 +18,18 @@
             "user_name": "Peter Parker",
             "text": "You are the spiderman of this world"
         }
+    ],
+    "details":[
+        {
+            "id": 1,
+            "rating": 10,
+            "user_name": "Tony Stark",
+            "text": "You are the ironman of this world"
+        }, {
+            "id": 1,
+            "rating": 10,
+            "user_name": "Tony Stark",
+            "text": "You are the ironman of this world"
+        }
     ]
 }
